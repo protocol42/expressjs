@@ -2,7 +2,7 @@ Description:
 empty express.js app
 
 Setup:
-1. Clone the repository: git clone git@github.com:protocol42/expressjs.git
+1. Clone the repository: git clone https://github.com/protocol42/expressjs
 2. install the dependencies: cd expressjs then npm install
 
 
