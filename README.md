@@ -1,15 +1,27 @@
-Description:
-empty express.js app
-
-Setup:
-1. Clone the repository: git clone https://github.com/protocol42/expressjs
-2. install the dependencies: cd expressjs then npm install
+## Description:
+test server built with nodejs / expressjs for use in development and testing of code.
 
 
-Running/Using:
-After completing the setup, start the app and navigate to localhost on port 3000.
-1. from the project directory: node myapp.js.
-2. wait until you see 'Example app listening on port 3000' in your terminal.
-3. navigate to localhost:3000 in your browser.
+## Installation/setup:
+Clone the repository:
+```
+$ git clone git@github.com:protocol42/expressjs.git
+```
 
+## Install dependencies:
+```
+$ cd expressjs
+$ npm install
+```
+
+
+## running/using:
+After completing the setup, start the app and navigate to localhost on port 3000:
+
+From the project directory:
+```
+$ node myapp.js
+```
+Wait until you see "app listening on port 5500" in your terminal output
+Navigate to localhost:5500 in your favorite browser.
 
